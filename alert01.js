@@ -1,0 +1,1 @@
+alert("Tutorial: Tap to Get Tapping to Crazy.")
